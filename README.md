@@ -1,4 +1,4 @@
-![I am a web developer]
+I am a web developer
 ### Hi there 👋, I'm Mahi
 #### I am a web developer
 
