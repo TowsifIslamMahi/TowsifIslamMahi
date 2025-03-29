@@ -1,4 +1,4 @@
-![I am a web developer](https://scontent.fdac34-1.fna.fbcdn.net/v/t39.30808-1/457651509_122163687824150306_3376461066558721859_n.jpg?stp=c264.0.718.718a_dst-jpg_s160x160_tt6&_nc_cat=110&ccb=1-7&_nc_sid=1d2534&_nc_eui2=AeFQ9Y9o-mrMcbHbOeJE8dyXIvmYcblZnwci-ZhxuVmfB1u-hugyemri1WnRnsyoNsc9pL4BYJOeOHHqe_vjjyE-&_nc_ohc=VyRHMmbRUBYQ7kNvgFXn3cF&_nc_zt=24&_nc_ht=scontent.fdac34-1.fna&_nc_gid=Al_XrM2I-fLIwoh3iSmAuvJ&oh=00_AYDRwuEXlkTuezVPo2Sm3SwVUL7B-kfxdTVxVyuWDcIukA&oe=677CBA6E)
+![I am a web developer]
 ### Hi there 👋, I'm Mahi
 #### I am a web developer
 
