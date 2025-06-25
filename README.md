@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://i.ibb.co/LhCsZGvR/4fe2e4ad-e1f1-4bab-85ea-56b688c8c69f.jpg"/>
-</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hi+there!+I'm+Mahi;Mern+Stack+Developer+💻;MERN+Stack+Developer+" alt="Typing SVG" />
