@@ -3,27 +3,26 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hi+there!+I'm+Hriday;Frontend+Developer+💻;MERN+Stack+Developer+🚀;From+Bangladesh+🇧🇩" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hi+there!+I'm+Mahi;Mern+Stack+Developer+💻;MERN+Stack+Developer+" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwakeupcoders.medium.com%2Fpython-programming-fundamentals-44198e7d62d4&psig=AOvVaw10cTpXFx6zrSg8rv7lkoLo&ust=1750949924951000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjRkKPqjI4DFQAAAAAdAAAAABAi" width="400">
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> About Me
 
 const hriday = {
-    name: "Hriday Sonar",
-    role: "Frontend Developer",
-    location: "Bangladesh 🇧🇩",
+    name: "Towsif Islam Mahi",
+    role: "Mern Stack Developer",
+    location: "Bangladesh",
     currentlyWorking: "MERN Stack Projects",
-    currentlyLearning: ["Advanced React", "Next.js", "TypeScript"],
     askMeAbout: ["React", "Node.js", "MongoDB", "JavaScript"],
-    email: "mdhridaysonar@gmail.com",
-    portfolio: "https://phenomenal-cuchufli-fef911.netlify.app/",
-    funFact: "I love building interactive web applications! 🚀"
+    email: "towsifislammahi.tim@gmail.com",
+    portfolio: "https://towsifislammahi.netlify.app/",
+    funFact: "When I see Code i feel afraid! 🚀"
 };
 
 <div align="center">
@@ -41,7 +40,6 @@ const hriday = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
@@ -55,7 +53,6 @@ const hriday = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 </div>
@@ -78,7 +75,7 @@ const hriday = {
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35"> GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hridaysonar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TowsifIslamMahi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="35"> Current Focus
@@ -89,8 +86,8 @@ const hriday = {
 
 const currentGoals = {
   🔥 building: "Modern MERN Stack Applications",
-  📚 learning: "Advanced React & Next.js Concepts",
-  🎯 mastering: "Frontend Development Best Practices",
+  📚 learning: "Advanced About Programing"
+  🎯 mastering: "Design A web",
   🚀 exploring: "Latest Web Technologies",
   💡 focus: "Creating User-Friendly Interfaces"
 };
@@ -99,10 +96,10 @@ const currentGoals = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hridoy-sonar-94b42a331)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/profile.php?id=61557692312244)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdhridaysonar@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://phenomenal-cuchufli-fef911.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61559141692715)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:towsifislammahi.tim@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://towsifislammahi.netlify.app/)
 
 </div>
 
@@ -112,7 +109,7 @@ const currentGoals = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
 
-*Let's build something amazing together! 🚀*
+*Let's See Some Project! 🚀*
 
 </div>
 
